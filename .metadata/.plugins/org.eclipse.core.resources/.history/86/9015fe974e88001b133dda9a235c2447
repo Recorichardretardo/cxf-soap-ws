@@ -1,0 +1,5 @@
+package com.cxf.sb.ws.soap.dto;
+
+public class SumRequest {
+
+}

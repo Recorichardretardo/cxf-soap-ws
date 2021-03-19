@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ws-soap-client/src/main/resources/wsdl/CustomerOrders.wsdl.xml&apos; to &apos;CustomerOrders.wsdl&apos;" description="Rename resource &apos;CustomerOrders.wsdl.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/wsdl/CustomerOrders.wsdl.xml" name="CustomerOrders.wsdl" stamp="1616106443457" updateReferences="true"/>
+</session>

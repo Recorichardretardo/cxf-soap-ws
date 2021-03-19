@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=apache-cxf-spring-boot-ws/C:\/Users\/hp\/.m2\/repository\/org\/apache\/cxf\/cxf-core\/3.4.2\/cxf-core-3.4.2.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.apache.cxf=/=/maven.artifactId=/cxf-core=/=/maven.version=/3.4.2=/=/maven.scope=/compile=/&lt;org.apache.cxf.annotations(Logging.class[Logging" modifiers="1058305" timestamp="1616099174532"/>
+    <typeInfo handle="=apache-cxf-spring-boot-ws/C:\/Users\/hp\/.m2\/repository\/org\/apache\/cxf\/cxf-core\/3.4.2\/cxf-core-3.4.2.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.apache.cxf=/=/maven.artifactId=/cxf-core=/=/maven.version=/3.4.2=/=/maven.scope=/compile=/&lt;org.apache.cxf.feature(LoggingFeature.class[LoggingFeature" modifiers="1048609" timestamp="1616099174532"/>
+    <typeInfo handle="=top-down-soap-wsdl-ws/target\/generated\/cxf=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ws.example{CustomerOrdersPortType.java[CustomerOrdersPortType" modifiers="513" timestamp="1616103827079"/>
+</typeInfoHistroy>

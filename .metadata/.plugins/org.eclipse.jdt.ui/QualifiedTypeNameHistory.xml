@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
+    <fullyQualifiedTypeName name="org.apache.cxf.jaxws.EndpointImpl"/>
+    <fullyQualifiedTypeName name="org.apache.cxf.Bus"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.cxf.sb.ws.soap.ExampleSoapService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.ws.example.Product"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.cxf.sb.ws.soap.CustomerOrdersWsImpl"/>
+    <fullyQualifiedTypeName name="org.apache.cxf.feature.Features"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="com.ws.example.GetOrdersRequest"/>
+    <fullyQualifiedTypeName name="java.math.BigInteger"/>
+    <fullyQualifiedTypeName name="com.ws.example.GetOrdersResponse"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.ws.example.Order"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlType"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessorType"/>
+    <fullyQualifiedTypeName name="javax.jws.WebService"/>
+    <fullyQualifiedTypeName name="javax.jws.WebResult"/>
+    <fullyQualifiedTypeName name="javax.jws.WebParam"/>
+    <fullyQualifiedTypeName name="com.cxf.sb.ws.soap.dto.SumResponse"/>
+    <fullyQualifiedTypeName name="com.cxf.sb.ws.soap.dto.SumRequest"/>
+    <fullyQualifiedTypeName name="com.cxf.sb.ws.soap.SumWSImpl"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,23 @@
+package com.cxf.sb.ws.soap;
+
+import com.ws.example.CreateOrdersRequest;
+import com.ws.example.CreateOrdersResponse;
+import com.ws.example.CustomerOrdersPortType;
+import com.ws.example.GetOrdersRequest;
+import com.ws.example.GetOrdersResponse;
+
+public class CustomerOrdersWsImpl implements CustomerOrdersPortType {
+
+	@Override
+	public GetOrdersResponse getOrders(GetOrdersRequest parameters) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public CreateOrdersResponse createOrders(CreateOrdersRequest parameters) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

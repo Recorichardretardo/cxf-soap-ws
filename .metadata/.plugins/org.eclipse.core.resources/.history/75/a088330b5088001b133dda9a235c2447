@@ -1,0 +1,15 @@
+package com.cxf.sb.ws.soap.dto;
+
+public class SumResponse {
+
+	private int result;
+
+	public int getResult() {
+		return result;
+	}
+
+	public void setResult(int result) {
+		this.result = result;
+	}
+
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\work\soap-ws-codebase\ws-apache-cxf-spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3077669862.index
+\sumws\src\main\java
+C:\work\soap-ws-codebase\ws-apache-cxf-spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\566385935.index
+\sum-soap-ws\target\generated-sources\annotations

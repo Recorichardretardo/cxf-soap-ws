@@ -1,0 +1,4 @@
+# default /services
+
+server.servlet.context-path=/ExampleWS
+cxf.path=/

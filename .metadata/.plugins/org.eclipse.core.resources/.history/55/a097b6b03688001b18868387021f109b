@@ -1,0 +1,31 @@
+package com.cxf.sb.ws.soap;
+
+import java.math.BigInteger;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import com.ws.example.CreateOrdersRequest;
+import com.ws.example.CreateOrdersResponse;
+import com.ws.example.CustomerOrdersPortType;
+import com.ws.example.GetOrdersRequest;
+import com.ws.example.GetOrdersResponse;
+import com.ws.example.Order;
+
+public class CustomerOrdersWsImpl implements CustomerOrdersPortType {
+	
+	Map<BigInteger, List<Order>> customerOrders = new HashMap<>();
+
+	@Override
+	public GetOrdersResponse getOrders(GetOrdersRequest parameters) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public CreateOrdersResponse createOrders(CreateOrdersRequest parameters) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

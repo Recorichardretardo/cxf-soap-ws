@@ -1,0 +1,20 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:exam="http://example.ws.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <exam:createOrdersRequest>
+         <customerId>1</customerId>
+         <order>
+            <id>2</id>
+            <!--1 or more repetitions:-->
+            <product>
+               <!--Optional:-->
+               <id>2</id>
+               <!--Optional:-->
+               <description>MAC BOOK</description>
+               <!--Optional:-->
+               <quantity>5</quantity>
+            </product>
+         </order>
+      </exam:createOrdersRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:exam="http://example.ws.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <exam:getOrdersRequest>
+         <!--Optional:-->
+         <customerId>1</customerId>
+      </exam:getOrdersRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

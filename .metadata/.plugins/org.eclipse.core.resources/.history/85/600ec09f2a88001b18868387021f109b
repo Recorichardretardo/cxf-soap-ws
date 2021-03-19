@@ -1,0 +1,5 @@
+package com.cxf.sb.ws.soap.config;
+
+public class SoapWebServiceConfig {
+
+}

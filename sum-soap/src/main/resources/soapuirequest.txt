@@ -1,0 +1,12 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soap="http://soap.ws.sb.cxf.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <soap:calculateSum>
+         <!--Optional:-->
+         <arg0>
+            <num1>10</num1>
+            <num2>5</num2>
+         </arg0>
+      </soap:calculateSum>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,14 @@
+package com.cxf.sb.ws.soap;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+@WebService
+public class ExampleSoapService {
+	
+	@WebMethod
+	public String sample() {
+		return "Sample Example";
+	}
+
+}

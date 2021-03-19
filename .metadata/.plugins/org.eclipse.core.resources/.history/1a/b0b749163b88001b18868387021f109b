@@ -1,0 +1,17 @@
+package com.cxf.sb.ws.soap;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+
+public class CustomerOrderWsClient {
+	public static void main(String[] args) {
+		try {
+			CustomerOrdersWsImplService service = new CustomerOrdersWsImplService(
+					new URL("http://localhost:8080/wsdlfirstws/customerordersservice?wsdl"));
+		} catch (MalformedURLException e) {
+
+			e.printStackTrace();
+		}
+
+	}
+}
